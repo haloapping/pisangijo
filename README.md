@@ -37,4 +37,5 @@ Kumpulan perkakas dan pustaka berbasis Python.
 - [Scikit-Image](https://scikit-image.org/)
 
 Semoga bermanfaat yah 😄
+
 Dibuat dengan penuh 💚 oleh [haloapping](https://haloapping.github.io/)
