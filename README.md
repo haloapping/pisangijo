@@ -36,6 +36,9 @@ Kumpulan perkakas dan pustaka berbasis Python.
 ##  Pemrosesan dan Analisa Gambar (Image Processing and Analysis)
 - [Scikit-Image](https://scikit-image.org/)
 
+## Peramalan (Forecasting)
+- [Sktime](https://www.sktime.org/en/stable/)
+
 Semoga bermanfaat yah 😄
 
 Dibuat dengan penuh 💚 oleh [haloapping](https://haloapping.github.io/)
