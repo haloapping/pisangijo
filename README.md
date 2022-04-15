@@ -39,6 +39,9 @@ Kumpulan perkakas dan pustaka berbasis Python.
 ## Peramalan (Forecasting)
 - [Sktime](https://www.sktime.org/en/stable/)
 
+## Simbol dan Persamaan Matematika
+- [SymPy](https://www.sympy.org/en/index.html)
+
 Semoga bermanfaat yah 😄
 
 Dibuat dengan penuh 💚 oleh [haloapping](https://haloapping.github.io/)
