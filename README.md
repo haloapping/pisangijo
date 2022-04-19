@@ -41,6 +41,9 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 ## 🍨 Simbol dan Persamaan Matematika
 - [SymPy](https://www.sympy.org/en/index.html)
 
+## Pemrosesan Bahasa Alami (Natural Languange Processing)
+- [Gensim](https://radimrehurek.com/gensim/index.html)
+
 Semoga bermanfaat yah 😄
 
 Dibuat dengan penuh 💚 oleh [haloapping](https://haloapping.github.io/)
