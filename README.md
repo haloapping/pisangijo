@@ -1,5 +1,5 @@
 # pisang-ijo
-Kumpulan perkakas dan pustaka berbasis Python.
+Kumpulan perkakas dan pustaka berbasis bahasa pemrograman Python.
 
 ## Analisa Data
 - [Pandas](https://pandas.pydata.org/)
