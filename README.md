@@ -1,44 +1,44 @@
-# pisang-ijo
-Kumpulan perkakas dan pustaka berbasis bahasa pemrograman Python.
+## 🍜 Disclaimer
+Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka berbasis bahasa pemrograman Python yang telah digunakan oleh pembuat repositori ini ([haloapping](https://haloapping.github.io/)) untuk mengerjakan beberapa tugas.
 
-## Analisa Data
+## 🍟 Analisa Data
 - [Pandas](https://pandas.pydata.org/)
 - [Pandas Profiling](https://pandas-profiling.ydata.ai/docs/master/index.html)
 
-## Visualisasi
+## 🥘 Visualisasi
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Plotly](https://plotly.com/python/)
 
-## Matematika, Sains, dan Teknik
+## 🧀 Matematika, Sains, dan Teknik
 - [SciPy](https://docs.scipy.org/doc/scipy/index.html)
 
-## Aljabar Linear dan Matriks
+## 🍗 Aljabar Linear dan Matriks
 - [NumPy](https://numpy.org/)
 
-## Pembelajaran Mesin (Machine Learning)
+## 🍰 Pembelajaran Mesin (Machine Learning)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
-## Menangani Dataset yang Tidak Seimbang (Imbalanced Class)
+## 🍩 Menangani Dataset yang Tidak Seimbang (Imbalanced Class)
 - [Imbalanced-learn](https://imbalanced-learn.org/stable/)
 
-## Pembelajaran Mendalam (Deep Learning)
+## 🌮 Pembelajaran Mendalam (Deep Learning)
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 
-## Metrik Evaluasi Deep Learning
+## 🍔 Metrik Evaluasi Deep Learning
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)
 
-## Pemrosesan dan Analisa Audio (Audio Processing and Analysis)
+## 🧁 Pemrosesan dan Analisa Audio (Audio Processing and Analysis)
 - [Librosa](https://librosa.org/)
 
-##  Pemrosesan dan Analisa Gambar (Image Processing and Analysis)
+## 🥞 Pemrosesan dan Analisa Gambar (Image Processing and Analysis)
 - [Scikit-Image](https://scikit-image.org/)
 
-## Peramalan (Forecasting)
+## 🍤 Peramalan (Forecasting)
 - [Sktime](https://www.sktime.org/en/stable/)
 
-## Simbol dan Persamaan Matematika
+## 🍨 Simbol dan Persamaan Matematika
 - [SymPy](https://www.sympy.org/en/index.html)
 
 Semoga bermanfaat yah 😄
