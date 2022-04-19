@@ -25,7 +25,6 @@ Kumpulan perkakas dan pustaka berbasis Python.
 ## Pembelajaran Mendalam (Deep Learning)
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
-- [TensorFlow](https://www.tensorflow.org/)
 
 ## Metrik Evaluasi Deep Learning
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)
