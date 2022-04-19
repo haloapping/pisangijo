@@ -43,6 +43,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 
 ## 🍳 Pemrosesan Bahasa Alami (Natural Languange Processing)
 - [Gensim](https://radimrehurek.com/gensim/index.html)
+- [NLTK (Natural Language Toolkit)](https://www.nltk.org/)
 
 Semoga bermanfaat yah 😄
 
