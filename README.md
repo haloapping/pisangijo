@@ -45,6 +45,11 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 - [Gensim](https://radimrehurek.com/gensim/index.html)
 - [NLTK (Natural Language Toolkit)](https://www.nltk.org/)
 
+## 🍞 Sistem Rekomendasi (Recommendation System)
+- [Implicit](https://benfred.github.io/implicit/index.html)
+- [Surpr!se](https://surprise.readthedocs.io/en/stable/index.html)
+- [LightFM](https://making.lyst.com/lightfm/docs/index.html)
+
 Semoga bermanfaat yah 😄
 
 Dibuat dengan penuh 💚 oleh [haloapping](https://haloapping.github.io/)
