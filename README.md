@@ -47,8 +47,9 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 
 ## 🍞 Sistem Rekomendasi (Recommendation System)
 - [Implicit](https://benfred.github.io/implicit/index.html)
-- [Surpr!se](https://surprise.readthedocs.io/en/stable/index.html)
 - [LightFM](https://making.lyst.com/lightfm/docs/index.html)
+- [Microsoft Recommenders](https://microsoft-recommenders.readthedocs.io/en/latest/)
+- [Surpr!se](https://surprise.readthedocs.io/en/stable/index.html)
 
 Semoga bermanfaat yah 😄
 
