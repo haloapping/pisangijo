@@ -10,6 +10,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 - [Seaborn](https://seaborn.pydata.org/)
 - [Plotly](https://plotly.com/python/)
 - [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html)
+- [mlxtend](https://rasbt.github.io/mlxtend/api_subpackages/mlxtend.plotting/)
 
 ## 🧀 Matematika, Sains, dan Teknik
 - [SciPy](https://docs.scipy.org/doc/scipy/index.html)
