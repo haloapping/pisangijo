@@ -39,7 +39,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 - [Scikit-Image](https://scikit-image.org/)
 
 ## 🍤 Peramalan (Forecasting)
-- [Sktime](https://www.sktime.org/en/stable/)
+- [Scikit-Time](https://www.sktime.org/en/stable/)
 
 ## 🍨 Simbol dan Persamaan Matematika
 - [SymPy](https://www.sympy.org/en/index.html)
