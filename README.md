@@ -19,6 +19,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 
 ## 🍰 Pembelajaran Mesin (Machine Learning)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
+- [mlxtend](https://rasbt.github.io/mlxtend/)
 
 ## 🍩 Menangani Dataset yang Tidak Seimbang (Imbalanced Class)
 - [Imbalanced-learn](https://imbalanced-learn.org/stable/)
