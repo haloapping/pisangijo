@@ -19,11 +19,11 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 - [NumPy](https://numpy.org/)
 
 ## 🍰 Pembelajaran Mesin (Machine Learning)
-- [Scikit-learn](https://scikit-learn.org/stable/index.html)
+- [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 - [mlxtend](https://rasbt.github.io/mlxtend/)
 
 ## 🍩 Menangani Dataset yang Tidak Seimbang (Imbalanced Dataset)
-- [Imbalanced-learn](https://imbalanced-learn.org/stable/)
+- [Imbalanced-Learn](https://imbalanced-learn.org/stable/)
 
 ## 🌮 Pembelajaran Mendalam (Deep Learning)
 - [PyTorch](https://pytorch.org/)
