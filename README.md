@@ -54,6 +54,18 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 - [Microsoft Recommenders](https://microsoft-recommenders.readthedocs.io/en/latest/)
 - [Surpr!se](https://surprise.readthedocs.io/en/stable/index.html)
 
+## 🍛 Aplikasi Web
+- [Streamlit](https://streamlit.io/)
+
+## 🥯 Showcase (Pamer Karya)
+- [Spaces](https://huggingface.co/spaces)
+
+## ☕ Penginstall dan Pengelola Pustaka
+- [pip](https://pip.pypa.io/en/stable/)
+- [conda](https://docs.conda.io/projects/conda/en/latest/)
+
 Semoga bermanfaat yah 😄
 
 Dibuat dengan penuh 💚 oleh [haloapping](https://haloapping.github.io/)
+
+Jangan lupa kasih ⭐ di pojok kanan atas yah, supaya tidak error 😄
