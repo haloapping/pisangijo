@@ -58,7 +58,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 ## 🍛 Aplikasi Web
 - [Streamlit](https://streamlit.io/)
 
-## Web Scrapping
+## 🍱 Web Scrapping
 - [Tweepy - Twitter](https://docs.tweepy.org/en/stable/index.html)
 
 ## 🥯 Showcase (Pamer Karya)
