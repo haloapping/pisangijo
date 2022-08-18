@@ -19,14 +19,14 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 ## 🍗 Aljabar Linear dan Matriks
 - [NumPy](https://numpy.org/)
 
-## 🍰 Pembelajaran Mesin (Machine Learning)
+## 🍰 Machine Learning
 - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 - [mlxtend](https://rasbt.github.io/mlxtend/)
 
 ## 🍩 Menangani Dataset yang Tidak Seimbang (Imbalanced Dataset)
 - [Imbalanced-Learn](https://imbalanced-learn.org/stable/)
 
-## 🌮 Pembelajaran Mendalam (Deep Learning)
+## 🌮 Deep Learning
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 
