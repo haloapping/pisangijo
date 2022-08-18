@@ -64,7 +64,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 ## 🥯 Showcase (Pamer Karya)
 - [Spaces](https://huggingface.co/spaces)
 
-## ☕ Pengunduh dan Pengelola Pustaka
+## ☕ Pengunduh dan Pengelolah Pustaka
 - [pip](https://pip.pypa.io/en/stable/)
 - [conda](https://docs.conda.io/projects/conda/en/latest/)
 
