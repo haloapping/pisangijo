@@ -29,6 +29,7 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 ## 🌮 Deep Learning
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
+- [Einops](https://einops.rocks/)
 
 ## 🍔 Metrik Evaluasi Deep Learning
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)
