@@ -30,6 +30,8 @@ Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka b
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - [Einops](https://einops.rocks/)
+- [timm (PyTorch Image Models)](https://huggingface.co/docs/timm/index)
+- [ViT (Vision Transformer) by lucidrains](https://github.com/lucidrains/vit-pytorch)
 
 ## 🍔 Metrik Evaluasi Deep Learning
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)
