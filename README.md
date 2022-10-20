@@ -1,5 +1,5 @@
 ## 🍜 Disclaimer
-Semua daftar perkakas dan pustaka yang ditampilkan adalah perkakas dan pustaka berbasis bahasa pemrograman Python yang telah digunakan oleh pembuat repositori ini ([haloapping](https://haloapping.github.io/)) untuk mengerjakan beberapa tugas.
+Daftar library dan framework yang ditampilkan adalah library dan framework berbasis bahasa pemrograman Python dan PyTorch yang telah digunakan oleh pembuat repositori ini ([haloapping](https://haloapping.github.io/)) untuk mengerjakan beberapa tugas.
 
 ## 🍟 Analisa Data
 - [Pandas](https://pandas.pydata.org/)
