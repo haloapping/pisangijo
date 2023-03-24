@@ -43,7 +43,7 @@ Daftar library dan framework yang ditampilkan adalah library dan framework berba
 - [Scikit-Image](https://scikit-image.org/)
 
 ## 🍤 Peramalan (Forecasting)
-- [Scikit-Time](https://www.sktime.org/en/stable/)
+- [Scikit-Time](http://www.sktime.net/en/latest/)
 
 ## 🍨 Simbol dan Persamaan Matematika
 - [SymPy](https://www.sympy.org/en/index.html)
