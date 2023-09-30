@@ -19,6 +19,11 @@ Daftar library dan framework yang ditampilkan adalah library dan framework berba
 ## 🍗 Aljabar Linear dan Matriks
 - [NumPy](https://numpy.org/)
 
+## 🧂Rekayasa Fitur
+- [Category Encoders by sklearn contrib](http://contrib.scikit-learn.org/category_encoders/)
+- [Feature Engine](https://feature-engine.trainindata.com/en/latest/index.html)
+- [SDV (Synthetic Data Vault)](https://docs.sdv.dev/sdv/)
+
 ## 🍰 Machine Learning
 - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 - [mlxtend](https://rasbt.github.io/mlxtend/)
